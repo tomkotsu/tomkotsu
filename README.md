@@ -4,7 +4,7 @@ I'm Tom Binnie, a frontend developer.
 <br/>
 フロントエンドエンジニアのビニートムです。
 
-I'm passionate about creating intuitive, mobile-first, responsive UIs using the latest JavaScript frameworks, HTML, and CSS :computer:.
+I'm passionate about creating intuitive, mobile-first, responsive web pages and components using the latest JavaScript frameworks, HTML, and CSS :computer:.
 
 I enjoy finding creative solutions to coding challenges, and I love hiking :mount_fuji:, music :musical_keyboard:, and nature :penguin:.
 
