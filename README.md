@@ -1,6 +1,7 @@
 ### Hello there 👋
 
 I'm Tom Binnie, a frontend developer.
+<br/>
 フロントエンドエンジニアのビニートムです。
 
 I'm passionate about creating intuitive, mobile-first, responsive UIs using the latest JavaScript frameworks, HTML, and CSS :computer:.
@@ -9,6 +10,7 @@ I enjoy finding creative solutions to coding challenges, and I love hiking :moun
 
 
 The tools I use for frontend development include:
+<br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
